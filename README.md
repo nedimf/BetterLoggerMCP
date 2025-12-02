@@ -2,6 +2,7 @@
 
 > **The modern iOS log viewer with AI integration and lane-based organization**
 
+<img src="https://github.com/nedimf/BetterLoggerMCP/blob/main/gh-image-1.png"/>
 Better Logger is a powerful macOS application for viewing, organizing, and analyzing iOS device logs. With unique lane-based categorization, MCP (Model Context Protocol) integration for AI assistants, and a beautiful grid view, it transforms how developers debug iOS applications.
 
 ![macOS](https://img.shields.io/badge/platform-macOS-blue)
