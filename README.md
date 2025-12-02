@@ -139,7 +139,7 @@ Cursor: [Uses get_logs tool with level=error and lane=NETWORK]
 ### Custom Format Example
 If your logs use a different format, configure custom patterns:
 
-**Input:** `[2024-01-15 10:30:45] [ERROR] [AuthService] Login failed`
+**Input:** `[2025-01-15 10:30:45] [ERROR] [AuthService] Login failed`
 
 **Lane Pattern:** `\[(\w+)\]` (captures "AuthService")
 **Source Pattern:** (optional, if you include file:line in logs)
