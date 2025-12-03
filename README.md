@@ -11,7 +11,7 @@ Better Logger is a powerful macOS application for viewing, organizing, and analy
 
 ### 🎯 Core Features
 
-- **Real-Time Log Streaming** - Stream logs from iOS simulators and physical devices with live updates
+- **Real-Time Log Streaming** - Stream logs from iOS simulators with live updates
 - **Lane-Based Organization** - Automatically categorize logs into color-coded lanes for easy navigation
 - **Lanes Grid View** - Visual side-by-side comparison of logs organized by lanes with resizable columns
 - **Custom Format Parsing** - Configure regex patterns to parse any log format with built-in presets
